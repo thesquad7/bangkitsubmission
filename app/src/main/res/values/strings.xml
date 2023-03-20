@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SubmissionApps</string>
+    <string name="Title_Recycler">Title</string>
+    <string name="Subtitle_Recycler">Isi singkat</string>
+    <string name="email">a061dkx4509@bangkit.academy</string>
+    <string name="name">Filemon Sitanggang</string>
+    <string-array name="Judul">
+        <item>Filemon pada 2012</item>
+        <item>Filemon pada 2013</item>
+        <item>Filemon pada 2014</item>
+        <item>Filemon pada 2015</item>
+        <item>Filemon pada 2016</item>
+        <item>Filemon pada 2017</item>
+        <item>Filemon pada 2018</item>
+        <item>Filemon pada 2019</item>
+        <item>Filemon pada 2020</item>
+        <item>Filemon pada 2021</item>
+        <item>Filemon pada 2022</item>
+    </string-array>
+    <string-array name="Subtitle">
+        <item>Pada tahun 2012 Filemon Berusia 13 Tahun, dan saat itu Filemon sudah mengerti cara mengoprek telepon genggam, bermodel OEM dari China, serta sedikit paham tentang penggunaan Kernel pada windows XP. Hal itu ia gunakan untuk mengkostumisasi tampilan dari Windows XP agar mirip dengan Windows 7, namun berapa kali terjadi kegagalan, Filemon akhirnya berhasil dengan mengkombinasi StarDock, dengan Seven7Vienna , dan sys32.dll, yang di modifikasi sedemikian rupa</item>
+        <item>saat Beranjak memasuki usia 14 Tahun, Filemon sudah berada di kelas 8 SMP, oh ia Filemon masuk SMP Negeri 1 Sidikalang, sebuah institusi pendidikan yang pada masa jabatan Presiden Susilo Bambang Yudhyono, menjadi sekolah Negeri berstandard Internasional, dan ia menjadi siswa nakal selama SMP, yang membuat Filemon, lebih sering pergi ke Warnet dengan bermain PointBlank, Lost-Saga, DragonCity, dari pada fokus belajar agar bisa masuk SMA atau SMK bergengsi, lagi, namun Filemon malah terlalu mudah termakan situasi lingkungan</item>
+        <item>Uniknya pada Tahun 2014 Filemon menjadi siswa pertama, yang kerasukan setan ,di SMP saat ia mengikuti proses pelaksanaan kegiatan upacara bendera yang diadakan pada hari itu, sontak Filemon mulai saat itu dikenal dengan nama Ghost Ryder, karena ia melihat hantu yang mirip karakter, yang diciptakan oleh Marvel Cinematic Universe tersebut, dan hal itu tidak membuat Filemon merasa terbully, melainkan ia senang di panggil demikian, karena terasa lebih baik, dan Filemon malah membranding nama "Ghost Ryder" pada nama akun Point Blanknya</item>
+        <item>2015 menjadi tahun paling ber Impact untuk Filemon, karena pada saat itu, ia kehilangan, neneknya yang meninggal diusia 84 Tahun, seorang yang sangat menyanginya dengan baik, pergi tanpa menepati janjinya untuk melihat cicit dari cucunya, yang ia sering katakan pad Filemon, hal itu membuat Filemon putus asa dan pergi membawa kendaraan saat masa berkabung di rumah duka, yang mengakibatkan ia mengalami kecalakaan single, dan membuat tengkorangnya reta, tulang lengan yang patah, dan luka berat di kakinya, dan saat itu adalah masa titik balik Filemon menjadi orang baik</item>
+        <item>Karena Filemon telat untuk kembali ke jalan yang benar, akhirnya ia menerima kenyataan tidak masuk sekolah negeri Favoritnya, dan ayahnya sangat marah besar karena hal demikian, karena Filemon mengalami penurunan kualitas pelajar, padahal semasa SMP Filemon bahkan tidak pernah dipaksa untuk pergi membantu orangtuanya untuk berkebun, melainkan apa yang ia pinta akan selalu di kabulkan oleh orang tuanya, namun hasil ujian Nasional tahun 2016 mengatakan hal yang sebaliknya, ia tahu pada hari itu ada penjualan kunci jawaban, namun karena sifatnya tidak suka curang ketika ujian, membuat dia harus menerima kenyataan karena kurang belajar. dan mendapat nilai yang rendah saat ujian nasional</item>
+        <item>Tahun ini menjadi tahun yang Fun untuk Filemon, setelah ia gagal masuk sekolah negeri Ia akhirnya masuk sekolah swasta yang tidak terlalu terkenal, dan memperoleh juara 3 Umum di Jurusan Teknik Informatika, dan membuat ia mendapat tiket emas untuk mengikuti lomba kejuraan siswa yang membuat ia menjadi juara 3 tingkat provinsi pada tahun 2017 karena menjadi mahasiswa tercepat dalam konfigurasi Microtik, dan pembuatan Miroring Server ter singkat</item>
+        <item>2018 Filemon terpuruk lagi karena ia dituduh telah mencuri berbagai perangkat keras dari lab sekolah ketika ia melakukan program PKL, dan hebatnya ia memang tidak mencuri, namun ada beberapa temannya yang memperalat ia, dan membuatnya terjerumus</item>
+        <item>sesudah Lulus dari SMK akhirnya Filemon bekerja sebaik teknisi pada salah satu toko komputer di kota asal, hanya dalam waktu 3 bulan akhirnya ia direkrut oleh TelkomPlaza dan ditempatkan sebagai FiberOptics Engineer, yang perannya adalah mengatasi masalah Fiberhome dan instalasi Fiberhome baru, namun karena orang tua Filemon merasa Filemon butuh peningkatan pendidikan akhirnya ia disuruh untuk merantau dan sekalian mengambil bimbel di Bandung untuk mempersiapakan diri pada SBMPTN 2020, sebelumnya ia sudah coba ambil SBMPTN, namun karena kurangnya literasi akhirnya ia gagal diterima pada tahun pertama, dan ia harus siap siap</item>
+        <item>Tahun Emas muncul lagi saat ia berhasil di terima pada SBMPTN tahun 2020 di ITERA dengan jurusan GeoFisika, namun karena ia memang tidak berminat masuk prodi tersebut, ia akhirnya memilih Polindra yang menerimanya pada Prodi Software Engineer, oh ia sebelumnya Filemon berhasil masuk 3 PTN pada tahun 2020, dan ia sangat bangga dengan itu. dan membuat ia menjadi sangat berterima kasih pada orangtuanya dan keluarga yang telah meluruskan langkahnya dalam berkuliah</item>
+        <item>2021 adalah tahun terpuruk lagi untuk Filemon, karena adanya Covid, ekonomi keluarga Filemon akhirnya merosot, dan membuat orangtuanya putus asa dan menyarankan Filemon untuk Kembali Pulang. namun karena Filemon gigih, pada tahun ini akhirnya ia menjadi mahasiswa yang kuliah dengan biaya sendiri</item>
+        <item>2022 menjadi tahun terberat untuk Filemon, ia nyari di DO karena tidak membayar UKT, namun karena berkonsultasi dengan direksi akhirnya ia boleh berkuliah dengan syarat harus mengerakan System untuk Laboratorium yang di garap oleh salah satu dosen di kampusnya</item>
+    </string-array>
+    <integer-array name="photos_cv">
+        <item>@drawable/duaduabelas</item>
+        <item>@drawable/duatigabelas</item>
+        <item>@drawable/duaempatbelas</item>
+        <item>@drawable/dualimabelas</item>
+        <item>@drawable/duaenambelas</item>
+        <item>@drawable/duatujuhbelas</item>
+        <item>@drawable/duadelapanbelas</item>
+        <item>@drawable/duasembilanbelas</item>
+        <item>@drawable/duaduapuluh</item>
+        <item>@drawable/duadupuluhsatu</item>
+        <item>@drawable/duaduapuluhdua</item>
+
+
+    </integer-array>
+</resources>
